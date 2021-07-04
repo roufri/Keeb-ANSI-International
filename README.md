@@ -1,4 +1,4 @@
-# Keeb-ANSI-International
+# Keeb-ANSI-International-65
 
 This QMK configuration is made for Europeans who use the ANSI layout on a 65% keyboard.
 
